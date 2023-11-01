@@ -1,25 +1,19 @@
 <h1 align="center">Привет 👋, меня зовут Александр Габидуллин</h1>
 <h3 align="center">Я инженер в ГК Astra Linux!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeytide&label=Profile%20views&color=0e75b6&style=flat" alt="mikeytide" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikeytide" alt="mikeytide" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
 - 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
 
-- Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
+- 🦾 Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
 
-- ![Alt text](image.png)Еще мой проект по автоматическому развертыванию сервера 1с на ОС Astra Linux [1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
+- 🔨 Еще мой проект по автоматическому развертыванию отказоустойчивого кластера 1С на ОС Astra Linux [Сервер 1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
 
 - 📫 Связь со мной:
 почта **qualittv@gmail.com**
 телеграмм: **https://t.me/okolosamara**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Мой ютуб канал с обучающими видео</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@xizhinaadministratora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xizhinaadministratora" height="30" width="40" /></a>
 </p>
