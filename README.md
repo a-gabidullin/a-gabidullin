@@ -12,7 +12,7 @@
 - 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
 
 - 📫Связь со мной:
-<a href="https://t.me/okolosamara" target="blank"><img align="center" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="okolosamara" height="30" width="40" /></a>
+<a href="https://t.me/okolosamara" target="blank"><img align="center" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="okolosamara" height="30" width="30" /></a>
 ✔️почта **qualittv@gmail.com**
 ✔️телеграмм: **https://t.me/okolosamara**
 
