@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Александр Габидуллин</h1>
-<h3 align="center">Я инженер в ГК Astra Linux!</h3>
+<h3 align="center">Я работаю инженером в ГК Астра</h3>
 
 - 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
