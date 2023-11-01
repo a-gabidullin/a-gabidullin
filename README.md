@@ -7,12 +7,12 @@
 
 - 🔨 Еще мой проект по автоматическому развертыванию отказоустойчивого кластера 1С на ОС Astra Linux [Сервер 1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
 
-- 🦾 Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
+- ⭐ Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
 
 - 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
 
 - 📫 Связь со мной:
-<a href="https://t.me/okolosamara" target="blank"><img align="center" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="okolosamara" height="30" width="30" /></a> <a href="mailto: qualittv@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/146973/gmail.svg" alt="okolosamara" height="30" width="30" /></a> <a href="https://www.youtube.com/channel/UCTns2JpjbW-_QLUgUddeD7Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xizhinaadministratora" height="30" width="40" /></a>
+<a href="https://t.me/okolosamara" target="blank"><img align="center" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="okolosamara" height="40" width="40" /></a> <a href="mailto: qualittv@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/146973/gmail.svg" alt="okolosamara" height="40" width="40" /></a> <a href="https://www.youtube.com/channel/UCTns2JpjbW-_QLUgUddeD7Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xizhinaadministratora" height="40" width="40" /></a>
 <!-- <h3 align="left">Мой ютуб канал с обучающими видео</h3>
 <p align="left"> -->
 </p>
