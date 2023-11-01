@@ -1,17 +1,19 @@
 <h1 align="center">Привет 👋, меня зовут Александр Габидуллин</h1>
 <h3 align="center">Я инженер в ГК Astra Linux!</h3>
 
-- Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
-
-- 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
+- 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
 - 🦾 Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
 
 - 🔨 Еще мой проект по автоматическому развертыванию отказоустойчивого кластера 1С на ОС Astra Linux [Сервер 1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
 
-- 📫 Связь со мной:
-почта **qualittv@gmail.com**
-телеграмм: **https://t.me/okolosamara**
+- 🦾 Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
+
+- 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
+
+- 📫Связь со мной:
+✔️почта **qualittv@gmail.com**
+✔️телеграмм: **https://t.me/okolosamara**
 
 <h3 align="left">Мой ютуб канал с обучающими видео</h3>
 <p align="left">
