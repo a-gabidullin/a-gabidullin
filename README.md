@@ -26,6 +26,8 @@
 <br>
 <br>
 <br>
-<br><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikeytide&theme=dark&show_icons=true&locale=ru" alt="mikeytide" /></p>
+<br>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikeytide&theme=dark&show_icons=true&locale=ru" alt="mikeytide" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeytide&" alt="mikeytide" /></p> -->
