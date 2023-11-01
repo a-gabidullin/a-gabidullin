@@ -12,13 +12,13 @@
 - 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
 
 - 📫Связь со мной:
-<a href="https://t.me/okolosamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="okolosamara" height="30" width="40" /></a>
+<a href="https://t.me/okolosamara" target="blank"><img align="center" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="okolosamara" height="30" width="40" /></a>
 ✔️почта **qualittv@gmail.com**
 ✔️телеграмм: **https://t.me/okolosamara**
 
 <h3 align="left">Мой ютуб канал с обучающими видео</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCTns2JpjbW-_QLUgUddeD7Q" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="@xizhinaadministratora" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTns2JpjbW-_QLUgUddeD7Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xizhinaadministratora" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
