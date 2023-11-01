@@ -9,13 +9,15 @@
 
 - Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
-- 🌱 I’m currently learning **Bash, python, ansible, puppet and other...**
+- 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
 
 - Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
 
-- Еще мой проект по автоматическому развертыванию сервера 1с на ОС Astra Linux [1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
+- ![Alt text](image.png)Еще мой проект по автоматическому развертыванию сервера 1с на ОС Astra Linux [1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
 
-- 📫 Связь со мной **qualittv@gmail.com**
+- 📫 Связь со мной:
+почта **qualittv@gmail.com**
+телеграмм: **https://t.me/okolosamara**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
