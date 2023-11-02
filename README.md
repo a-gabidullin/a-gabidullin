@@ -12,7 +12,7 @@
 - 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
 
 ### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnu_bash&logoColor=47C5FB)
+![Flutter](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnubash&logoColor=47C5FB)
 
 
 ### Socials:
