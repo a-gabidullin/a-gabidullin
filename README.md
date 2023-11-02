@@ -10,6 +10,8 @@
 
 - ⭐ Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
 
+- ⭐ Сборник новых функций для добавления действия в меню *действия* Astra Linux [Новый функции для меню действия](https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux)
+
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/okolosamara)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@XizhinaAdministratora)
