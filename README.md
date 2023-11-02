@@ -1,6 +1,8 @@
 <h1 align="center">Привет 👋, меня зовут Александр Габидуллин</h1>
 <h3 align="center">Я работаю инженером в ГК Астра</h3>
-<img src="https://gitflic.ru/project/gabidullin-aleks/gabidullin-aleks/blob/raw?file=logo1.png&commit=80ad70087af69884d6d4be101c7d79f88097c110" alt="logo1.png" height="160" width="700"/>
+<img src="https://gitflic.ru/project/gabidullin-aleks/gabidullin-aleks/blob/raw?file=logo2.png&commit=e80f91cf3a667397c258d8434ee3d08c156b6eda" alt="logo1.png" height="160" width="700"/>
+
+<!-- https://gitflic.ru/project/gabidullin-aleks/gabidullin-aleks/blob/raw?file=logo1.png&commit=80ad70087af69884d6d4be101c7d79f88097c110 -->
 - 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
 - 🦾 Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
