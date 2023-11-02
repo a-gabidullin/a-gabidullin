@@ -37,7 +37,7 @@
 
 ### Other
 ![proxmox](https://img.shields.io/badge/-Proxmox-090909?style=for-the-badge&logo=proxmox&logoColor=47C5FB)
-![hyper](https://img.shields.io/badge/-hyper-090909?style=for-the-badge&logo=hyper&logoColor=47C5FB)
+![hyper](https://img.shields.io/badge/-hyper-v-090909?style=for-the-badge&logo=hyper&logoColor=47C5FB)
 ![docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=47C5FB)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=47C5FB)
