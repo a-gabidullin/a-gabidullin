@@ -1,3 +1,4 @@
+<img src="https://gitflic.ru/project/gabidullin-aleks/gabidullin-aleks/blob?file=logo1.png" alt="logo1.png" width="180"/>
 <h1 align="center">Привет 👋, меня зовут Александр Габидуллин</h1>
 <h3 align="center">Я работаю инженером в ГК Астра</h3>
 
