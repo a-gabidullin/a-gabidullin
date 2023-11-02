@@ -2,13 +2,13 @@
 <h3 align="center">Я работаю инженером в ГК Астра</h3>
 <img src="https://gitflic.ru/project/gabidullin-aleks/gabidullin-aleks/blob/raw?file=logo1.png&commit=80ad70087af69884d6d4be101c7d79f88097c110" alt="logo1.png" height="150" width="700"/>
 
-<h3 align="center"> 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)</h3>
+- 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
-<h3 align="center"> 🦾 Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)</h3>
+- 🦾 Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
  
-<h3 align="center"> 🔨 Еще мой проект по автоматическому развертыванию отказоустойчивого кластера 1С на ОС Astra Linux [Сервер 1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)</h3>
+- 🔨 Еще мой проект по автоматическому развертыванию отказоустойчивого кластера 1С на ОС Astra Linux [Сервер 1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
 
-<h3 align="center"> ⭐ Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)</h3>
+- ⭐ Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
 
 ### Languages:
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnubash&logoColor=47C5FB)
