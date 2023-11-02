@@ -10,6 +10,11 @@
 
 - ⭐ Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
 
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/okolosamara)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@XizhinaAdministratora)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/tide88)
+
 ### Languages:
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnubash&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
@@ -44,12 +49,6 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=47C5FB)
 ![Apachekafka](https://img.shields.io/badge/-Apachekafka-090909?style=for-the-badge&logo=apachekafka&logoColor=47C5FB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-090909?style=for-the-badge&logo=elasticsearch&logoColor=47C5FB)
-
-### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/okolosamara)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@XizhinaAdministratora)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/tide88)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeytide&show_icons=true&locale=ru&layout=compact" alt="mikeytide" /></p>
 
