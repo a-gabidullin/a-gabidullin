@@ -9,8 +9,6 @@
 
 - ⭐ Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
 
-- 🌱 Сейчас я погружен в изучение: **Bash, python, ansible, puppet, cloud, hardware and other...**
-
 ### Languages:
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnubash&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
@@ -19,6 +17,7 @@
 
 ### OS:
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=47C5FB)
+![Astra](https://img.shields.io/badge/-AstraLinux-090909?style=for-the-badge&logoColor=47C5FB)
 ![windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=windows&logoColor=47C5FB)
 
 ### Database:
@@ -37,6 +36,8 @@
 ![Apache](https://img.shields.io/badge/-Apache-090909?style=for-the-badge&logo=apache&logoColor=47C5FB)
 
 ### Other
+![proxmox](https://img.shields.io/badge/-Proxmox-090909?style=for-the-badge&logo=proxmox&logoColor=47C5FB)
+![hyper](https://img.shields.io/badge/-hyper-090909?style=for-the-badge&logo=hyper&logoColor=47C5FB)
 ![docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=47C5FB)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=47C5FB)
