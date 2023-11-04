@@ -5,6 +5,8 @@
 - 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
 - 🦾 Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
+
+- ☁️ Реализон проект по автоматическому развертыванию облачного хранилища nextcloud [Облачное хранилище Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se)
  
 - 🔨 Еще мой проект по автоматическому развертыванию отказоустойчивого кластера 1С на ОС Astra Linux [Сервер 1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
 
