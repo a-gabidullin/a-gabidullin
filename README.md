@@ -4,6 +4,8 @@
 
 - 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
+- 💥 Я разработал ПО для настройки ЕСПД в школах [ЕСПД на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)
+
 - 🦾 Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
 
 - ☁️ Реализон проект по автоматическому развертыванию облачного хранилища nextcloud [Облачное хранилище Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se)
@@ -13,6 +15,8 @@
 - ⭐ Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
 
 - 🎁 Сборник новых функций для добавления действия в меню *действия* Astra Linux [Новый функции для меню действия Astra Linux](https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux)
+
+
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/okolosamara)
