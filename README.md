@@ -4,7 +4,7 @@
 
 - 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
-- 💥 Я разработал ПО для настройки ЕСПД в школах [ЕСПД на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)
+- 🔒 Я разработал ПО для настройки ЕСПД в школах [ЕСПД на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)
 
 - 🦾 Также я развиваю свой проект по автоматической развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
 
