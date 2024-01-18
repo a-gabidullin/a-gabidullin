@@ -1,6 +1,8 @@
 <h1 align="center">Привет 👋, меня зовут Александр Габидуллин</h1>
 <h3 align="center">Я работаю инженером в Группе Астра</h3>
 
+- 🤖 Мой основной проект сейчас [Групповые политики для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/astrawizard)
+
 - 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
 - 🔒 Я разработал ПО для настройки ЕСПД в школах [ЕСПД на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)
