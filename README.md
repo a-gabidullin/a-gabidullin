@@ -17,7 +17,7 @@
 
 - 🎁 Сборник новых функций для добавления действия в меню *действия* Astra Linux [Новый функции для меню действия Astra Linux](https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux)
 
-
+- 💲  Можно поблагодарить тут: https://www.tbank.ru/cf/6Tx3ipfeiPH
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/okolosamara)
