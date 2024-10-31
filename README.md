@@ -3,11 +3,13 @@
 
 - 🤖 Мой основной проект сейчас [Групповые политики для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/astrawizard)
 
+- 👮‍♂️ Я работаю над проектом для [управления групповыми политиками ALD Pro](https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro) 
+
 - 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
 - 🔒 Я разработал ПО для настройки ЕСПД в школах [ЕСПД на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)
 
-- 🦾 Также я развиваю свой проект по автоматическому развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
+- 🧩 Также я развиваю свой проект по автоматическому развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
 
 - ☁️ Реализован проект по автоматическому развертыванию облачного хранилища nextcloud [Облачное хранилище Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se)
  
@@ -22,7 +24,7 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/okolosamara)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@XizhinaAdministratora)
-[![Rutube]](https://rutube.ru/video/person/41100583/)
+[![Rutube](https://img.shields.io/badge/-RuTube-090909?style=for-the-badge&logo=RuTube&logoColor=FF0000)](https://rutube.ru/video/person/41100583/)
 
 ### Languages:
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnubash&logoColor=47C5FB)
