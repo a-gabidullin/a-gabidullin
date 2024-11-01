@@ -9,6 +9,8 @@
 
 - 🔒 Я разработал ПО для настройки ЕСПД в школах [ЕСПД на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)
 
+- 🎎 Проект по настройке перемещаемых профилей [Перемещаемые профили на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux)
+
 - 🧩 Также я развиваю свой проект по автоматическому развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
 
 - ☁️ Реализован проект по автоматическому развертыванию облачного хранилища nextcloud [Облачное хранилище Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se)
