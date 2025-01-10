@@ -3,6 +3,8 @@
 
 - 🤖 Мой основной проект сейчас [Групповые политики для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/astrawizard)
 
+- 👨‍💻 Написал небольшой скрипт [Вывод информации на рабочий стол пользователя](https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol)
+
 - 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
 
 - 🔒 Я разработал ПО для настройки ЕСПД в школах [ЕСПД на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)
