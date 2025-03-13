@@ -3,6 +3,8 @@
 
 - 🤖 Мой основной проект сейчас [Групповые политики для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/astrawizard)
 
+- 🚦 Проект по настройке мониторинга [Иконки мониторинга в трей ](https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb)
+
 - 👮‍♂️ Я работаю над проектом для [Управления групповыми политиками ALD Pro](https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro) 
 
 - 👨‍💻 Написал скрипт [Вывод информации на рабочий стол пользователя ](https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol) 
