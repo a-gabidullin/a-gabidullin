@@ -3,11 +3,9 @@
 
 - 🤖 Мой основной проект сейчас [Групповые политики для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/astrawizard)
 
-<<<<<<< HEAD
 - 🤝 Написал автоматизацию [Cинхронизации пользователей MS AD ↔ FreeIPA](https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa)
-=======
+
 - 🚦 Проект по настройке мониторинга [Иконки мониторинга в трей ](https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb)
->>>>>>> 079552b51f9e912870784d2c9549d6aa4bd347fb
 
 - 👮‍♂️ Я работаю над проектом для [Управления групповыми политиками ALD Pro](https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro) 
 
