@@ -26,9 +26,9 @@
 
 ## 🔥 Мои ключевые проекты
 
-| Проект | Описание |
-|:-------|:---------|
-| **[AstraWizard](https://gitflic.ru/project/gabidullin-aleks/astrawizard)** | Централизованное управление компьютерами на базе ОС ALSE через групповые политики |
+| Проекты |
+|:-------|
+| **[AstraWizard](https://gitflic.ru/project/gabidullin-aleks/astrawizard)** | 
 | **[Синхронизация пользователей MS AD ↔ FreeIPA](https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa)** | Автоматизированный перенос пользователей из Microsoft Active Directory в FreeIPA |
 | **[Автоматизация развертывания домена ALD Pro](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)** | Комплексное решение для автоматической настройки домена ALD Pro |
 | **[Облачное хранилище на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se)** | Реализация NextCloud для работы в среде Astra Linux |
@@ -39,7 +39,7 @@
 | **[ЕСПД для образовательных учреждений](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)** | Решение для настройки Единой системы прав доступа в школах |
 | **[Киоск-решение на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)** | Готовое решение для рекламных и информационных киосков |
 | **[Расширение меню "Действия" в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux)** | Дополнительные функции для контекстного меню системы |
-| **[Перемещаемые профили в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux)** | Автоматизация настройки перемещаемых профилей для Astra Linux |
+| **[Перемещаемые профили в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux)** | Автоматизация настройки перемещаемых профилей для Astra Linux |                                     
 
 ---
 
