@@ -1,82 +1,70 @@
-<h1 align="center">Привет 👋, меня зовут Александр Габидуллин</h1>
-<h3 align="center">Я работаю инженером в Группе Астра</h3>
+# 🚀 Александр Габидуллин | Инженер Группы Астра
 
-- 🤖 Мой основной проект сейчас [Групповые политики для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/astrawizard)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47C5FB&width=510&lines=Специалист+по+Astra+Linux;Автоматизация+и+безопасность;Разработчик+инструментов+администрирования;Просто+хороший+парень" alt="Титульная строка с анимацией" />
+</div>
 
-- 🤝 Написал автоматизацию [Cинхронизации пользователей MS AD ↔ FreeIPA](https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa)
+## 🤝 Обо мне
 
-- 🚦 Проект по настройке мониторинга [Иконки мониторинга в трей ](https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb)
+**Инженер** в Группе Астра с фокусом на разработке инструментов автоматизации для отечественных ОС. Создатель популярных open-source проектов, включая AstraWizard и Помогатор, которые помогают тысячам администраторов в процессе импортозамещения.  
 
-- 👮‍♂️ Я работаю над проектом для [Управления групповыми политиками ALD Pro](https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro) 
+**DevOps**, специализирующийся на Ansible, Python и Bash-автоматизации. Автор технических статей и образовательных материалов по работе с Astra Linux, сочетающий глубокие технические знания с педагогическим подходом.  
 
-- 👨‍💻 Написал скрипт [Вывод информации на рабочий стол пользователя ](https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol) 
+**Активный участник IT-сообщества** - веду YouTube-канал "Хижина Администратора", разрабатываю инструменты для упрощения перехода с Windows на Linux и выступаю за развитие российской open-source экосистемы.
 
-- 💥 Я работаю над проектом [Помогатор Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)
+---
 
-- 🔒 Я разработал ПО для настройки ЕСПД в школах [ЕСПД на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)
+<div align="center">
 
-- 🎎 Проект по настройке перемещаемых профилей [Перемещаемые профили на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux)
+![Репозитории](https://img.shields.io/badge/Репозитории-10+-blue)
+![Коммиты](https://img.shields.io/badge/Коммитов-150+-brightgreen) 
+![Опыт](https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-orange)
+![Возраст](https://img.shields.io/badge/Мой%20возраст-25-ff69b4)
+![Стек](https://img.shields.io/badge/Стек-Python%2FBash%2FAnsible-important)
+    
+</div>
 
-- 🧩 Также я развиваю свой проект по автоматическому развертыванию AldPro [Домен AldPro Astra Linux](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)
+## 🔥 Мои ключевые проекты
 
-- ☁️ Реализован проект по автоматическому развертыванию облачного хранилища nextcloud [Облачное хранилище Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se)
- 
-- 🔨 Еще мой проект по автоматическому развертыванию отказоустойчивого кластера 1С на ОС Astra Linux [Сервер 1с для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux)
+| Проект | Описание |
+|--------|----------|
+| **[AstraWizard](https://gitflic.ru/project/gabidullin-aleks/astrawizard)** | Централизованное управление компьютерами на базе ОС ALSE через групповые политики |
+| **[Синхронизация пользователей MS AD ↔ FreeIPA](https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa)** | Автоматизированный перенос пользователей из Microsoft Active Directory в FreeIPA |
+| **[Автоматизация развертывания домена ALD Pro](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)** | Комплексное решение для автоматической настройки домена ALD Pro |
+| **[Облачное хранилище на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se)** | Реализация NextCloud для работы в среде Astra Linux |
+| **[Мониторинг сервисов через системный трей](https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb)** | Визуализация состояния сервисов через иконки в системном трее |
+| **[Управление групповыми политиками ALD Pro](https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro)** | Инструмент для клонирования, сохранения и миграции политик между доменами |
+| **[Информационный дисплей на рабочем столе](https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol)** | Система отображения служебной информации на рабочем столе пользователя |
+| **[Помогатор для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)** | Набор вспомогательных скриптов для администраторов Astra Linux |
+| **[ЕСПД для образовательных учреждений](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)** | Решение для настройки Единой системы прав доступа в школах |
+| **[Киоск-решение на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)** | Готовое решение для рекламных и информационных киосков |
+| **[Расширение меню "Действия" в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux)** | Дополнительные функции для контекстного меню системы |
+| **[Перемещаемые профили в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux)** | Автоматизация настройки перемещаемых профилей для Astra Linux |
 
-- ⭐ Есть проект для реализации графического стенда для реализации рекламного киоска [Киоск Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)
+---
 
-- 🎁 Сборник новых функций для добавления действия в меню *действия* Astra Linux [Новый функции для меню действия Astra Linux](https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux)
+## 🌐 Социальные сети и поддержка
 
-- 💲  Ссылочка на донат для поддержания начинаний [Можно поблагодарить тут:](https://www.tbank.ru/cf/6Tx3ipfeiPH)
+<div align="center">
+  <a href="https://t.me/okolosamara">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.youtube.com/@XizhinaAdministratora">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://rutube.ru/video/person/41100583/">
+    <img src="https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white" alt="RuTube">
+  </a>
+  <a href="https://habr.com/ru/users/MikeyTide/">
+    <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr">
+  </a>
+  <a href="https://www.tbank.ru/cf/6Tx3ipfeiPH">
+    <img src="https://img.shields.io/badge/Поддержать-32CD32?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Donate">
+  </a>
+</div>
 
-### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/okolosamara)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@XizhinaAdministratora)
-[![Rutube](https://img.shields.io/badge/-RuTube-090909?style=for-the-badge&logo=RuTube&logoColor=FF0000)](https://rutube.ru/video/person/41100583/)
+---
 
-### Languages:
-![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnubash&logoColor=47C5FB)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
-![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=php&logoColor=47C5FB)
-![Qt](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=qt&logoColor=47C5FB)
-
-### OS:
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=47C5FB)
-![Astra](https://img.shields.io/badge/-AstraLinux-090909?style=for-the-badge&logoColor=47C5FB)
-![windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=windows&logoColor=47C5FB)
-
-### Database:
-![Mariadb](https://img.shields.io/badge/-Mariadb-090909?style=for-the-badge&logo=mariadb&logoColor=47C5FB)
-![Mysql](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
-![Microsoftsqlserver](https://img.shields.io/badge/-Microsoftsqlserver-090909?style=for-the-badge&logo=microsoftsqlserver&logoColor=47C5FB)
-![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=47C5FB)
-
-### Configuration manager
-![Ansible](https://img.shields.io/badge/-Ansible-090909?style=for-the-badge&logo=ansible&logoColor=47C5FB)
-![Puppet](https://img.shields.io/badge/-Puppet-090909?style=for-the-badge&logo=puppet&logoColor=47C5FB)
-
-### Web
-![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=47C5FB)
-![nginxproxymanager](https://img.shields.io/badge/-Nginxproxymanager-090909?style=for-the-badge&logo=nginxproxymanager&logoColor=47C5FB)
-![Apache](https://img.shields.io/badge/-Apache-090909?style=for-the-badge&logo=apache&logoColor=47C5FB)
-
-### Other
-![proxmox](https://img.shields.io/badge/-Proxmox-090909?style=for-the-badge&logo=proxmox&logoColor=47C5FB)
-![hyper-v](https://img.shields.io/badge/-hyper-090909?style=for-the-badge&logo=hyper&logoColor=47C5FB)
-![docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=47C5FB)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
-![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=47C5FB)
-![Apachekafka](https://img.shields.io/badge/-Apachekafka-090909?style=for-the-badge&logo=apachekafka&logoColor=47C5FB)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-090909?style=for-the-badge&logo=elasticsearch&logoColor=47C5FB)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeytide&show_icons=true&locale=ru&layout=compact" alt="mikeytide" /></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikeytide&theme=dark&show_icons=true&locale=ru" alt="mikeytide" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeytide&" alt="mikeytide" /></p> -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikeytide&style=flat-square&color=blue" alt="Просмотры профиля">
+</div>
