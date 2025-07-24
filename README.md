@@ -27,19 +27,19 @@
 ## 🔥 Мои ключевые проекты
 
 | Проект | Описание |
-|--------|----------|
-| [AstraWizard](https://gitflic.ru/project/gabidullin-aleks/astrawizard) | Централизованное управление компьютерами на базе ОС ALSE через групповые политики |
-| [Синхронизация пользователей MS AD ↔ FreeIPA](https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa) | Автоматизированный перенос пользователей из Microsoft Active Directory в FreeIPA |
-| [Автоматизация развертывания домена ALD Pro](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain) | Комплексное решение для автоматической настройки домена ALD Pro |
-| [Облачное хранилище на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se) | Реализация NextCloud для работы в среде Astra Linux |
-| [Мониторинг сервисов через системный трей](https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb) | Визуализация состояния сервисов через иконки в системном трее |
-| [Управление групповыми политиками ALD Pro](https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro) | Инструмент для клонирования, сохранения и миграции политик между доменами |
-| [Информационный дисплей на рабочем столе](https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol) | Система отображения служебной информации на рабочем столе пользователя |
-| [Помогатор для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator) | Набор вспомогательных скриптов для администраторов Astra Linux |
-| [ЕСПД для образовательных учреждений](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux) | Решение для настройки Единой системы прав доступа в школах |
-| [Киоск-решение на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk) | Готовое решение для рекламных и информационных киосков |
-| [Расширение меню "Действия" в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux) | Дополнительные функции для контекстного меню системы |
-| [Перемещаемые профили в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux) | Автоматизация настройки перемещаемых профилей для Astra Linux |
+|:-------|:---------|
+| **[AstraWizard](https://gitflic.ru/project/gabidullin-aleks/astrawizard)** | Централизованное управление компьютерами на базе ОС ALSE через групповые политики |
+| **[Синхронизация пользователей MS AD ↔ FreeIPA](https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa)** | Автоматизированный перенос пользователей из Microsoft Active Directory в FreeIPA |
+| **[Автоматизация развертывания домена ALD Pro](https://gitflic.ru/project/gabidullin-aleks/aldpro-domain)** | Комплексное решение для автоматической настройки домена ALD Pro |
+| **[Облачное хранилище на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se)** | Реализация NextCloud для работы в среде Astra Linux |
+| **[Мониторинг сервисов через системный трей](https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb)** | Визуализация состояния сервисов через иконки в системном трее |
+| **[Управление групповыми политиками ALD Pro](https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro)** | Инструмент для клонирования, сохранения и миграции политик между доменами |
+| **[Информационный дисплей на рабочем столе](https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol)** | Система отображения служебной информации на рабочем столе пользователя |
+| **[Помогатор для Astra Linux](https://gitflic.ru/project/gabidullin-aleks/pomogator)** | Набор вспомогательных скриптов для администраторов Astra Linux |
+| **[ЕСПД для образовательных учреждений](https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux)** | Решение для настройки Единой системы прав доступа в школах |
+| **[Киоск-решение на базе Astra Linux](https://gitflic.ru/project/gabidullin-aleks/kiosk)** | Готовое решение для рекламных и информационных киосков |
+| **[Расширение меню "Действия" в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux)** | Дополнительные функции для контекстного меню системы |
+| **[Перемещаемые профили в Astra Linux](https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux)** | Автоматизация настройки перемещаемых профилей для Astra Linux |
 
 ---
 
