@@ -78,6 +78,15 @@
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux"><strong>Расширение меню "Действия" в Astra Linux</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Дополнительные функции для контекстного меню системы</td>
     </tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/zabbix-server-install"><strong>Автоматизация установки zabbix-server на Astra Linux.</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Скрипт с GUI для автоматической установки zabbix-server на базе ОС ALSE</td>
+    </tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/shtamp-ecp-alse"><strong>Инструкция по добавлению штампа ЭЦП на Astra Lnux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Полноценная инструкция по настройке и добавлению штампов ЭЦП на документы на базе ОС ALSE</td>
+    </tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux"><strong>Автоматическая установка сервера 1С на Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Готовое решение по настройке и установке сервера 1С на базе ОС ALSE</td>
+    </tr>            
     <tr>
       <td style="padding:8px"><a href="https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux"><strong>Перемещаемые профили в Astra Linux</strong></a></td>
       <td style="padding:8px">Автоматизация настройки перемещаемых профилей для Astra Linux</td>
