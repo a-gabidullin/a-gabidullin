@@ -47,6 +47,10 @@
       <td style="padding:8px; border-bottom:1px solid #ddd">Комплексное решение для автоматической настройки домена ALD Pro</td>
     </tr>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/generaciya-organizacionnoi-struktury-ald-pro"><strong>Генератор структуры подразделений ALD Pro</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Это веб-приложение для генерации LDIF-структуры подразделений (Organizational Units) для ALD Pro.</td>
+    </tr>    
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se"><strong>Облачное хранилище на базе Astra Linux</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Реализация NextCloud для работы в среде Astra Linux</td>
     </tr>
