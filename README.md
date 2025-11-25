@@ -10,7 +10,7 @@
 
 **DevOps**, специализирующийся на Ansible, Python и Bash-автоматизации. Автор технических статей и образовательных материалов по работе с Astra Linux, сочетающий глубокие технические знания с педагогическим подходом.  
 
-**Активный участник IT-сообщества** - веду YouTube-канал "Хижина Администратора", разрабатываю инструменты для упрощения перехода с Windows на Linux и выступаю за развитие российской open-source экосистемы.
+**Активный участник IT-сообщества** - веду YouTube и RuTube - каналы "Хижина Администратора", разрабатываю инструменты для упрощения перехода с Windows на Linux и выступаю за развитие российской open-source экосистемы.
 
 ---
 
@@ -23,6 +23,39 @@
 ![Стек](https://img.shields.io/badge/Стек-Python%2FBash%2FAnsible-important)
     
 </div>
+
+## 📝 Мои статьи на Habr
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Статья</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Описание</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/945374/"><strong>2FA ALD Pro. Авторизация пользователей по сертификатам в домене</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Инструкция как настроить ALSE на работу со смарт-картами, и сертификатами из доменов ALD Pro и MS AD</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/930698/"><strong>От консоли к веб-интерфейсу: создание автоматического веб-инсталлятора для ALD Pro на Flask и Python</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Описание работы утилиты по автоматической установке ALD Pro</td>
+    </tr>
+    <tr>
+      <td style="padding:8px"><a href="https://habr.com/ru/articles/922854/"><strong>Ansible, bash и я: три мушкетёра в мире автоматизации управления компьютерами на Linux</strong></a></td>
+      <td style="padding:8px">Начало проекта AstraWizard и его возможностях</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/923522/"><strong>Продолжение повести о трёх мушкетёрах: какие подвиги совершили Bash, Ansible и Astrawizard</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Продолжение истории проекта AstraWizard и его возможностях</td>
+    </tr>    
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/923406/"><strong>Интерактивный киоск в Astra Linux: откройте дверь в мир интерактивных возможностей</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Инструкция по настройки информационного киоска и его возможностях в ALSE</td>
+    </tr>    
+  </tbody>
+</table>
 
 ## 🔥 Мои ключевые проекты
 
