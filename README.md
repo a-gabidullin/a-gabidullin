@@ -25,6 +25,10 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/965088/"><strong>Мониторинг SSSD через D-Bus: создаем собственный Ansible-модуль вместо sssctl</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Делюсь опытом того, как я отказался от стандартной утилиты мониторинга SSSD в пользу прямого общения с демоном через D-Bus и создал полнофункциональный Ansible-модуль</td>
+    </tr>  
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/945374/"><strong>2FA ALD Pro. Авторизация пользователей по сертификатам в домене</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Инструкция как настроить ALSE на работу со смарт-картами, и сертификатами из доменов ALD Pro и MS AD</td>
     </tr>
