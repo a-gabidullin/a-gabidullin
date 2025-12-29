@@ -24,6 +24,23 @@
     
 </div>
 
+## 🌟 Вклад в OpenSource проекты
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Проект</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Описание</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://galaxy.ansible.com/ui/repo/published/community/general/content/module/sssd_info/"><strong>Ansible.community.general module sssd_info</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Check the online status of SSSD domains, list domains, and retrieve active servers using D-Bus</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 📝 Мои статьи на Habr
 
 <table>
