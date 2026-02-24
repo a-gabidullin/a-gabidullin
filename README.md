@@ -6,9 +6,9 @@
 
 ## 🤝 Обо мне
 
-**Старший Инженер** в Группе Астра с фокусом на разработке инструментов автоматизации для отечественных ОС. Создатель популярных open-source проектов, включая AstraWizard и Помогатор, которые помогают тысячам администраторов в процессе импортозамещения.  
+**Старший Инженер** в Группе Астра с фокусом на разработке инструментов автоматизации для отечественных ОС. Создатель популярных open-source проектов, которые помогают тысячам администраторов в процессе импортозамещения.  
 
-**DevOps**, специализирующийся на Ansible, Python и Bash-автоматизации. Автор технических статей и образовательных материалов по работе с Astra Linux, сочетающий глубокие технические знания с педагогическим подходом.  
+**DevOps** - специализирующийся на Ansible, Python и Bash-автоматизации. Автор технических статей и образовательных материалов по работе с Astra Linux, сочетающий глубокие технические знания с педагогическим подходом.  
 
 **Активный участник IT-сообщества** - веду YouTube и RuTube - каналы "Хижина Администратора", разрабатываю инструменты для упрощения перехода с Windows на Linux и выступаю за развитие российской open-source экосистемы.
 
@@ -16,11 +16,11 @@
 
 <div align="center">
 
+![Статьи](https://img.shields.io/badge/Статьи-6+-blue)
 ![Репозитории](https://img.shields.io/badge/Репозитории-10+-blue)
 ![Коммиты](https://img.shields.io/badge/Коммитов-150+-brightgreen) 
 ![Опыт](https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-orange)
-![Возраст](https://img.shields.io/badge/Мой%20возраст-25-ff69b4)
-![Стек](https://img.shields.io/badge/Стек-Python%2FBash%2FAnsible-important)
+![Возраст](https://img.shields.io/badge/Мой%20возраст-26-ff69b4)
     
 </div>
 
@@ -53,7 +53,7 @@
   <tbody>
     <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/965088/"><strong>Мониторинг SSSD через D-Bus: создаем собственный Ansible-модуль вместо sssctl</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Делюсь опытом того, как я отказался от стандартной утилиты мониторинга SSSD в пользу прямого общения с демоном через D-Bus и создал полнофункциональный Ansible-модуль</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Делюсь опытом, как я отказался от стандартной утилиты мониторинга SSSD в пользу прямого общения с демоном через D-Bus и создал полнофункциональный публичный Ansible-модуль</td>
     </tr>  
     <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/945374/"><strong>2FA ALD Pro. Авторизация пользователей по сертификатам в домене</strong></a></td>
@@ -92,6 +92,10 @@
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/astrawizard"><strong>AstraWizard</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Централизованное управление компьютерами на базе ОС ALSE через групповые политики</td>
     </tr>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/plagin-dlya-kopirovaniya-rolei-ald-pro"><strong>Плагин FreeIPA для клонирования ролей в ALD Pro</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Плагин для FreeIPA, позволяющий создавать новые роли в системе ALD Pro на основе существующих через API с использованием Kerberos-аутентификации.</td>
+    </tr>    
     <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa"><strong>Синхронизация пользователей MS AD ↔ FreeIPA</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Автоматизированный перенос пользователей из Microsoft Active Directory в FreeIPA</td>
@@ -175,7 +179,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikeytide&style=flat-square&color=blue" alt="Просмотры профиля">
-</div>
