@@ -52,6 +52,10 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/988208/"><strong>Разработка кастомного плагина FreeIPA для работы с ролями ALD PRO</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Рассказываю как написать свой кастомный плагин для Freeipa, и как ускорить копирование ролей в ALD Pro, чтобы быстро подготовить инфраструктуру, похожую на вашу для переезда и импортозамещения</td>
+    </tr>    
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/965088/"><strong>Мониторинг SSSD через D-Bus: создаем собственный Ansible-модуль вместо sssctl</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Делюсь опытом, как я отказался от стандартной утилиты мониторинга SSSD в пользу прямого общения с демоном через D-Bus и создал полнофункциональный публичный Ansible-модуль</td>
     </tr>  
