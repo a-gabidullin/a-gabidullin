@@ -12,6 +12,8 @@
 
 **Активный участник IT-сообщества** - веду YouTube и RuTube - каналы "Хижина Администратора", разрабатываю инструменты для упрощения перехода с Windows на Linux и выступаю за развитие российской open-source экосистемы.
 
+**Развивитие** - глубоко погружен в изучение k8s, argocd, мониторинг (ELK or EFK), helm, CI/CD ( gitlab / jenkins) и все сопутствующие технологии для DevOps
+
 ---
 
 <div align="center">
@@ -92,6 +94,10 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/nastroika-split-dns-dlya-ald-pro"><strong>Split-DNS для работы с ALDPRO / Freeipa</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Инструкция по настройка split-dns для разделения запросов из разных подсетей на разные КД на основе правил, геораспределения и т.д.</td>
+    </tr>  
     <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/astrawizard"><strong>AstraWizard</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Централизованное управление компьютерами на базе ОС ALSE через групповые политики</td>
