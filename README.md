@@ -37,7 +37,11 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://docs.ansible.com/projects/ansible/latest/collections/community/general/sssd_info_module.html#ansible-collections-community-general-sssd-info-module"><strong>Ansible.community.general module sssd_info</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://docs.ansible.com/projects/ansible/latest/collections/community/general/logrotate_module.html#ansible-collections-community-general-logrotate-module"><strong>Ansible.community.general.logrotate module – Manage logrotate configurations</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Manage logrotate configuration files and settings.Create, update, or remove logrotate configurations for applications and services.</td>
+    </tr>  
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://docs.ansible.com/projects/ansible/latest/collections/community/general/sssd_info_module.html#ansible-collections-community-general-sssd-info-module"><strong>Ansible.community.general.sssd_info module – Check SSSD domain status using D-Bus</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Check the online status of SSSD domains, list domains, and retrieve active servers using D-Bus</td>
     </tr>
   </tbody>
