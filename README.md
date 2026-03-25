@@ -58,6 +58,10 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/1012572/"><strong>Как мы провели «пересадку сердца» у бегущего марафон, миграция 50 000 АРМ с ALSE 1.7 на 1.8 через Ansible без простоя</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">В этой статье я расскажу, как я создал Ansible-коллекцию, которая превратила рутинное обновление в промышленный процесс с 98.2% успешных запусков с первого раза</td>
+    </tr>    
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/988208/"><strong>Разработка кастомного плагина FreeIPA для работы с ролями ALD PRO</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Рассказываю как написать свой кастомный плагин для Freeipa, и как ускорить копирование ролей в ALD Pro, чтобы быстро подготовить инфраструктуру, похожую на вашу для переезда и импортозамещения</td>
     </tr>    
