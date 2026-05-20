@@ -1,12 +1,9 @@
-# Александр Габидуллин  
+# _Александр Габидуллин ведущий инженер DevOps @ Cloud.ru_
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47C5FB&width=510&lines=ex.+Специалист+по+Astra+Linux;Автоматизация+и+безопасность;Разработчик+инструментов+администрирования;Просто+хороший+парень" alt="Typing SVG" />
 </div>
 
-## Обо мне
-
-### _Ведущий инженер DevOps @ Cloud.ru_
 
 **Активный участник IT-сообщества**  
 - Веду YouTube и RuTube-канал «Хижина Администратора».  
@@ -230,7 +227,7 @@
 
 ---
 
-<br/>
+## 🌐 Ссылки на мои ресурсы
 
 <div align="center">
   
