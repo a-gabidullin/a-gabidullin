@@ -14,15 +14,11 @@
 <br/>
 
 <div align="center">
-  
-<div align="center">
-  <img src="https://img.shields.io/badge/Статьи-9-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Репозитории-10+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Коммитов-150+-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Возраст-26-ff69b4?style=for-the-badge" />
-</div>
-  
+  <img src="https://img.shields.io/badge/Статьи-9-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Репозитории-10+-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Коммитов-150+-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Возраст-26-8B5CF6?style=for-the-badge" />
 </div>
 
 ---
