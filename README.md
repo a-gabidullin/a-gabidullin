@@ -16,6 +16,7 @@
   
 </div>
 
+---
 
 ## ℹ️ Обо мне
 
@@ -27,16 +28,40 @@
 - Автор технических статей и обучающих материалов по Astra Linux.  
 - Создатель open-source проектов, которые помогают администраторам в процессе импортозамещения.
 
+---
 
 ## 🧰 Технологический стек
 
-| Категория | Технологии / Инструменты |
-|:---|:---|
-| CI/CD и GitOps | Jenkins, ArgoCD, GitLab CI, SonarQube, Trivy |
-| IaC и автоматизация | Ansible, Terraform, Helm, Kustomize, Bash, Python |
-| Контейнеризация и K8s | Docker, Kubernetes, Helm |
-| Мониторинг и логирование | Prometheus, Grafana, Loki, Elasticsearch (ELK) |
-| Репозитории артефактов | JFrog Artifactory, Nexus |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Категория</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Технологии / Инструменты</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd">CI/CD и GitOps</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Jenkins, ArgoCD, GitLab CI, SonarQube, Trivy</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd">IaC и автоматизация</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Ansible, Terraform, Helm, Kustomize, Bash, Python</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Контейнеризация и K8s</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Docker, Kubernetes, Helm</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Мониторинг и логирование</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Prometheus, Grafana, Loki, Elasticsearch (ELK)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Репозитории артефактов</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">JFrog Artifactory, Nexus</td>
+    </tr>
+  </tbody>
+</table>
 
 > Актуально на май 2026
 
@@ -51,6 +76,7 @@
 </div>
 
 
+---
 
 ## 🔧 Вклад в OpenSource
 
@@ -73,6 +99,7 @@
   </tbody>
 </table>
 
+---
 
 ## ✍️ Статьи на Habr
 
@@ -123,6 +150,8 @@
   </tbody>
 </table>
 
+
+---
 
 ## 🚀 Мои проекты
 
