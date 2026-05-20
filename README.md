@@ -4,20 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47C5FB&width=510&lines=ex.+Специалист+по+Astra+Linux;Автоматизация+и+безопасность;Разработчик+инструментов+администрирования;Просто+хороший+парень" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/okolosamara)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@XizhinaAdministratora)
-  [![Rutube](https://img.shields.io/badge/Rutube-FF5733?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/person/41100583/)
-  [![Habr](https://img.shields.io/badge/Habr-77A2D6?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/MikeyTide/)
-  [![Поддержать](https://img.shields.io/badge/Поддержать-8A2BE2?style=for-the-badge&logo=git&logoColor=white)](https://www.tbank.ru/cf/6Tx3ipfeiPH)
-  
-</div>
-
----
-
 ## Обо мне
 
 ### _Ведущий инженер DevOps @ Cloud.ru_
@@ -243,3 +229,15 @@
 
 
 ---
+
+<br/>
+
+<div align="center">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/okolosamara)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@XizhinaAdministratora)
+  [![Rutube](https://img.shields.io/badge/Rutube-FF5733?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/person/41100583/)
+  [![Habr](https://img.shields.io/badge/Habr-77A2D6?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/MikeyTide/)
+  [![Поддержать](https://img.shields.io/badge/Поддержать-8A2BE2?style=for-the-badge&logo=git&logoColor=white)](https://www.tbank.ru/cf/6Tx3ipfeiPH)
+  
+</div>
