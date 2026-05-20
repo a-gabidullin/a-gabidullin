@@ -65,6 +65,8 @@
 
 > Актуально на май 2026
 
+---
+
 <div align="center">
   
 ![Статьи](https://img.shields.io/badge/Статьи-9-blue)
