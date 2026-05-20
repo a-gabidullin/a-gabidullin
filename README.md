@@ -12,21 +12,33 @@
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@XizhinaAdministratora)
   [![Rutube](https://img.shields.io/badge/Rutube-FF5733?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/person/41100583/)
   [![Habr](https://img.shields.io/badge/Habr-77A2D6?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/MikeyTide/)
-  [![GitFlic](https://img.shields.io/badge/Поддержать-8A2BE2?style=for-the-badge&logo=git&logoColor=white)](https://www.tbank.ru/cf/6Tx3ipfeiPH)
+  [![Поддержать](https://img.shields.io/badge/Поддержать-8A2BE2?style=for-the-badge&logo=git&logoColor=white)](https://www.tbank.ru/cf/6Tx3ipfeiPH)
   
 </div>
 
 ---
 
-## ℹ️ Обо мне
+## Обо мне
 
-### _Ведущий инженер DevSecOps @ Cloud.ru_
+### _Ведущий инженер DevOps @ Cloud.ru_
 
 **Активный участник IT-сообщества**  
 - Веду YouTube и RuTube-канал «Хижина Администратора».  
-- Разрабатываю инструменты для перехода с Windows на Linux, поддерживаю российскую open-source экосистему.  
+- Разрабатывал инструменты для перехода с Windows на Linux, поддерживаю российскую open-source экосистему.  
 - Автор технических статей и обучающих материалов по Astra Linux.  
 - Создатель open-source проектов, которые помогают администраторам в процессе импортозамещения.
+
+<br/>
+
+<div align="center">
+  
+  ![Статьи](https://img.shields.io/badge/Статьи-9-blue)
+  ![Репозитории](https://img.shields.io/badge/Репозитории-10+-blue)
+  ![Коммиты](https://img.shields.io/badge/Коммитов-150+-brightgreen)
+  ![Опыт](https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-orange)
+  ![Возраст](https://img.shields.io/badge/Возраст-26-ff69b4)
+  
+</div>
 
 ---
 
@@ -67,15 +79,7 @@
 
 ---
 
-<div align="center">
-  
-![Статьи](https://img.shields.io/badge/Статьи-9-blue)
-![Репозитории](https://img.shields.io/badge/Репозитории-10+-blue)
-![Коммиты](https://img.shields.io/badge/Коммитов-150+-brightgreen)
-![Опыт](https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-orange)
-![Возраст](https://img.shields.io/badge/Возраст-26-ff69b4)
-  
-</div>
+
 
 
 ---
