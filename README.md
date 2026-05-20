@@ -15,11 +15,13 @@
 
 <div align="center">
   
-  ![Статьи](https://img.shields.io/badge/Статьи-9-blue)
-  ![Репозитории](https://img.shields.io/badge/Репозитории-10+-blue)
-  ![Коммиты](https://img.shields.io/badge/Коммитов-150+-brightgreen)
-  ![Опыт](https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-orange)
-  ![Возраст](https://img.shields.io/badge/Возраст-26-ff69b4)
+<div align="center">
+  <img src="https://img.shields.io/badge/Статьи-9-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Репозитории-10+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Коммитов-150+-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Возраст-26-ff69b4?style=for-the-badge" />
+</div>
   
 </div>
 
