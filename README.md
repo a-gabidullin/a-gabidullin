@@ -1,51 +1,61 @@
-# _Александр Габидуллин DevOps @ Cloud.ru_
+[![EN](https://img.shields.io/badge/English-blue?style=for-the-badge)](README.md)
+[![RU](https://img.shields.io/badge/Русский-red?style=for-the-badge)](README.ru.md)
 
-**Активный участник IT-сообщества**  
-- Веду YouTube и RuTube-канал «Хижина Администратора».  
-- Разрабатывал инструменты для перехода с Windows на Linux, поддерживаю российскую open-source экосистему.  
-- Автор технических статей и обучающих материалов по Astra Linux.  
-- Создатель open-source проектов, которые помогают администраторам в процессе импортозамещения.
+---
+
+# _Aleksandr Gabidullin DevOps @ Cloud.ru_
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47C5FB&width=510&lines=ex.+Specialist+in+Astra+Linux;Automation+and+Security;DevOps+Tools+Developer;Just+a+good+guy" alt="Typing SVG" />
+</div>
+
+
+**Active member of the IT community**
+- Run a YouTube and RuTube channel "Xizhina Administratora" (Admin's Hut).
+- Developed tools for migrating from Windows to Linux, support the Russian open-source ecosystem.
+- Author of technical articles and training materials on Astra Linux.
+- Creator of open-source projects that help administrators during the import substitution process.
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Статьи-9-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Репозитории-10+-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Коммитов-150+-E67E22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Опыт%20в%20IT-5%2B%20лет-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Возраст-26-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Articles-9-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repositories-10+-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-150+-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IT%20Experience-5%2B%20years-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-26-8B5CF6?style=for-the-badge" />
 </div>
 
 ---
 
-## 🧰 Технологический стек
+## 🧰 Tech Stack
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Категория</th>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Технологии / Инструменты</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Category</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Technologies / Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd">CI/CD и GitOps</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">CI/CD & GitOps</td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Jenkins, ArgoCD, GitLab CI, SonarQube, Trivy</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd">IaC и автоматизация</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">IaC & Automation</td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Ansible, Terraform, Helm, Kustomize, Bash, Python</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Контейнеризация и K8s</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Containerization & K8s</td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Docker, Kubernetes, Helm</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Мониторинг и логирование</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Monitoring & Logging</td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Prometheus, Grafana, Loki, Elasticsearch (ELK)</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Репозитории артефактов</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Artifact Repositories</td>
       <td style="padding:8px; border-bottom:1px solid #ddd">JFrog Artifactory, Nexus</td>
     </tr>
   </tbody>
@@ -53,19 +63,19 @@
 
 ---
 
-## 🔧 Вклад в OpenSource
+## 🔧 Open Source Contributions
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Проект</th>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Описание</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Project</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://docs.ansible.com/projects/ansible/latest/collections/community/general/logrotate_module.html#ansible-collections-community-general-logrotate-module"><strong>community.general.logrotate module</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Manage logrotate configuration files and settings.Create, update, or remove logrotate configurations for applications and services.</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Manage logrotate configuration files and settings. Create, update, or remove logrotate configurations for applications and services.</td>
     </tr>  
     <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://docs.ansible.com/projects/ansible/latest/collections/community/general/sssd_info_module.html#ansible-collections-community-general-sssd-info-module"><strong>community.general.sssd_info module</strong></a></td>
@@ -76,51 +86,51 @@
 
 ---
 
-## ✍️ Статьи на Habr
+## ✍️ Articles on Habr
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Статья</th>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Описание</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Article</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/1014554/"><strong>Культура инженерии: Почему главные инсайты рождаются не на сцене, а в метро и барах</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Я долго думал, что главное в IT — это спринты, доски задач и код без лишних встреч. Но после Techday 2026 понял: настоящие решения рождаются не в Jira, а в кулуарах, в метро и за кофе. Делюсь своим опытом — как офлайн-мероприятия меняют связи между командами и экономят энергию</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/1014554/"><strong>Engineering Culture: Why the Main Insights Are Born Not on Stage, but in the Subway and Bars</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">I used to think that the main thing in IT was sprints, task boards, and code without unnecessary meetings. But after Techday 2026, I realized: real solutions aren't born in Jira, but in the hallways, on the subway, and over coffee. I share my experience — how offline events strengthen connections between teams and save energy.</td>
     </tr>     
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/1012572/"><strong>Как мы провели «пересадку сердца» у бегущего марафон, миграция 50 000 АРМ с ALSE 1.7 на 1.8 через Ansible без простоя</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">В этой статье я расскажу, как я создал Ansible-коллекцию, которая превратила рутинное обновление в промышленный процесс с 98.2% успешных запусков с первого раза</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/1012572/"><strong>How We Performed a "Heart Transplant" on a Running Marathon: Migrating 50,000 Workstations from ALSE 1.7 to 1.8 via Ansible with Zero Downtime</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">In this article, I'll tell you how I created an Ansible collection that turned routine updates into an industrial process with a 98.2% first-time success rate.</td>
     </tr>    
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/988208/"><strong>Разработка кастомного плагина FreeIPA для работы с ролями ALD PRO</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Рассказываю как написать свой кастомный плагин для Freeipa, и как ускорить копирование ролей в ALD Pro, чтобы быстро подготовить инфраструктуру, похожую на вашу для переезда и импортозамещения</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/988208/"><strong>Developing a Custom FreeIPA Plugin for Working with ALD PRO Roles</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">I'll show you how to write your own custom plugin for FreeIPA and how to speed up role cloning in ALD Pro to quickly prepare infrastructure similar to yours for migration and import substitution.</td>
     </tr>    
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/965088/"><strong>Мониторинг SSSD через D-Bus: создаем собственный Ansible-модуль вместо sssctl</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Делюсь опытом, как я отказался от стандартной утилиты мониторинга SSSD в пользу прямого общения с демоном через D-Bus и создал полнофункциональный публичный Ansible-модуль</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/965088/"><strong>Monitoring SSSD via D-Bus: Creating Your Own Ansible Module Instead of sssctl</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">I share my experience of abandoning the standard SSSD monitoring utility in favor of directly communicating with the daemon via D-Bus and creating a full-featured public Ansible module.</td>
     </tr>  
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/945374/"><strong>2FA ALD Pro. Авторизация пользователей по сертификатам в домене</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Инструкция как настроить ALSE на работу со смарт-картами, и сертификатами из доменов ALD Pro и MS AD</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/945374/"><strong>2FA ALD Pro. User Authentication with Certificates in the Domain</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Instructions on how to configure ALSE to work with smart cards and certificates from ALD Pro and MS AD domains.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/930698/"><strong>От консоли к веб-интерфейсу: создание автоматического веб-инсталлятора для ALD Pro на Flask и Python</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Описание работы утилиты по автоматической установке ALD Pro</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/930698/"><strong>From Console to Web Interface: Creating an Automated Web Installer for ALD Pro Using Flask and Python</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Description of the tool for automated ALD Pro installation.</td>
     </tr>
     <tr>
-      <td style="padding:8px"><a href="https://habr.com/ru/articles/922854/"><strong>Ansible, bash и я: три мушкетёра в мире автоматизации управления компьютерами на Linux</strong></a></td>
-      <td style="padding:8px">Начало проекта AstraWizard и его возможностях</td>
+      <td style="padding:8px"><a href="https://habr.com/ru/articles/922854/"><strong>Ansible, Bash, and Me: The Three Musketeers in the World of Linux Computer Management Automation</strong></a></td>
+      <td style="padding:8px">The beginning of the AstraWizard project and its capabilities.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/923522/"><strong>Продолжение повести о трёх мушкетёрах: какие подвиги совершили Bash, Ansible и Astrawizard</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Продолжение истории проекта AstraWizard и его возможностях</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/923522/"><strong>The Sequel to the Tale of the Three Musketeers: What Feats Bash, Ansible, and AstraWizard Have Accomplished</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">The continuation of the AstraWizard project story and its capabilities.</td>
     </tr>    
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/923406/"><strong>Интерактивный киоск в Astra Linux: откройте дверь в мир интерактивных возможностей</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Инструкция по настройки информационного киоска и его возможностях в ALSE</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/articles/923406/"><strong>Interactive Kiosk in Astra Linux: Open the Door to a World of Interactive Possibilities</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Instructions for setting up an information kiosk and its capabilities in ALSE.</td>
     </tr>    
   </tbody>
 </table>
@@ -128,84 +138,84 @@
 
 ---
 
-## 🚀 Мои проекты
+## 🚀 My Projects
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Проект</th>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Описание</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Project</th>
+      <th style="text-align:left; padding:8px; border-bottom:2px solid #ddd">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/nastroika-split-dns-dlya-ald-pro"><strong>Split-DNS для работы с ALDPRO / Freeipa</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Инструкция по настройка split-dns для разделения запросов из разных подсетей на разные КД на основе правил, геораспределения и т.д.</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/nastroika-split-dns-dlya-ald-pro"><strong>Split-DNS for ALD Pro / FreeIPA</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Instructions for configuring split-DNS to route requests from different subnets to different domain controllers based on rules, geo-distribution, etc.</td>
     </tr>  
     <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/astrawizard"><strong>AstraWizard</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Централизованное управление компьютерами на базе ОС ALSE через групповые политики</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Centralized management of computers based on ALSE OS through group policies.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/plagin-dlya-kopirovaniya-rolei-ald-pro"><strong>Плагин FreeIPA для клонирования ролей в ALD Pro</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Плагин для FreeIPA, позволяющий создавать новые роли в системе ALD Pro на основе существующих через API с использованием Kerberos-аутентификации.</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/plagin-dlya-kopirovaniya-rolei-ald-pro"><strong>FreeIPA Plugin for Cloning Roles in ALD Pro</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A plugin for FreeIPA that allows creating new roles in the ALD Pro system based on existing ones via API using Kerberos authentication.</td>
     </tr>    
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa"><strong>Синхронизация пользователей MS AD ↔ FreeIPA</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Автоматизированный перенос пользователей из Microsoft Active Directory в FreeIPA</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa"><strong>MS AD ↔ FreeIPA User Synchronization</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Automated migration of users from Microsoft Active Directory to FreeIPA.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/aldpro-domain"><strong>Автоматизация развертывания домена ALD Pro</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Комплексное решение для автоматической настройки домена ALD Pro</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/aldpro-domain"><strong>ALD Pro Domain Deployment Automation</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A comprehensive solution for automated ALD Pro domain setup.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/generaciya-organizacionnoi-struktury-ald-pro"><strong>Генератор структуры подразделений ALD Pro</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Это веб-приложение для генерации LDIF-структуры подразделений (Organizational Units) для ALD Pro.</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/generaciya-organizacionnoi-struktury-ald-pro"><strong>ALD Pro Organizational Structure Generator</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A web application for generating LDIF structures of Organizational Units for ALD Pro.</td>
     </tr>    
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se"><strong>Облачное хранилище на базе Astra Linux</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Реализация NextCloud для работы в среде Astra Linux</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se"><strong>Cloud Storage Based on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">NextCloud implementation for operation in the Astra Linux environment.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb"><strong>Мониторинг сервисов через системный трей</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Визуализация состояния сервисов через иконки в системном трее</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb"><strong>Service Status Monitoring via System Tray Icons</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Visualization of service status through system tray icons.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro"><strong>Управление групповыми политиками ALD Pro</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Инструмент для клонирования, сохранения и миграции политик между доменами</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro"><strong>ALD Pro Group Policy Management</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A tool for cloning, saving, and migrating policies between domains.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol"><strong>Информационный дисплей на рабочем столе</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Система отображения служебной информации на рабочем столе пользователя</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol"><strong>Desktop Information Display</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A system for displaying service information on the user's desktop.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/pomogator"><strong>Помогатор для Astra Linux</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Набор вспомогательных скриптов для администраторов Astra Linux</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/pomogator"><strong>Helper for Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A set of auxiliary scripts for Astra Linux administrators.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux"><strong>ЕСПД для образовательных учреждений</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Решение для настройки Единой системы прав доступа в школах</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux"><strong>ESPD for Educational Institutions</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A solution for configuring the Unified Access Rights System in schools.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/kiosk"><strong>Киоск-решение на базе Astra Linux</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Готовое решение для рекламных и информационных киосков</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/kiosk"><strong>Kiosk Solution Based on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A ready-made solution for advertising and information kiosks.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux"><strong>Расширение меню "Действия" в Astra Linux</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Дополнительные функции для контекстного меню системы</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux"><strong>Astra Linux "Actions" Menu Extension</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Additional functions for the system context menu.</td>
     </tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/zabbix-server-install"><strong>Автоматизация установки zabbix-server на Astra Linux.</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Скрипт с GUI для автоматической установки zabbix-server на базе ОС ALSE</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/zabbix-server-install"><strong>Automated Zabbix Server Installation on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A script with GUI for automatic Zabbix server installation on ALSE OS.</td>
     </tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/shtamp-ecp-alse"><strong>Инструкция по добавлению штампа ЭЦП на Astra Lnux</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Полноценная инструкция по настройке и добавлению штампов ЭЦП на документы на базе ОС ALSE</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/shtamp-ecp-alse"><strong>Instructions for Adding Digital Signature Stamps on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Complete instructions for configuring and adding digital signature stamps to documents on ALSE OS.</td>
     </tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux"><strong>Автоматическая установка сервера 1С на Astra Linux</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Готовое решение по настройке и установке сервера 1С на базе ОС ALSE</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux"><strong>Automated 1C Server Installation on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">A ready-made solution for configuring and installing a 1C server on ALSE OS.</td>
     </tr>            
     <tr>
-      <td style="padding:8px"><a href="https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux"><strong>Перемещаемые профили в Astra Linux</strong></a></td>
-      <td style="padding:8px">Автоматизация настройки перемещаемых профилей для Astra Linux</td>
+      <td style="padding:8px"><a href="https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux"><strong>Roaming Profiles in Astra Linux</strong></a></td>
+      <td style="padding:8px">Automation of roaming profile configuration for Astra Linux.</td>
     </tr>
   </tbody>
 </table>   
@@ -213,7 +223,7 @@
 
 ---
 
-## 🌐 Ссылки на мои ресурсы
+## 🌐 Links to My Resources
 
 <div align="center">
   
@@ -221,6 +231,6 @@
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@XizhinaAdministratora)
   [![Rutube](https://img.shields.io/badge/Rutube-FF5733?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/person/41100583/)
   [![Habr](https://img.shields.io/badge/Habr-77A2D6?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/MikeyTide/)
-  [![Поддержать](https://img.shields.io/badge/Поддержать-8A2BE2?style=for-the-badge&logo=git&logoColor=white)](https://www.tbank.ru/cf/6Tx3ipfeiPH)
+  [![Support](https://img.shields.io/badge/Support-8A2BE2?style=for-the-badge&logo=git&logoColor=white)](https://www.tbank.ru/cf/6Tx3ipfeiPH)
   
 </div>
