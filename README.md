@@ -149,72 +149,69 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/nastroika-split-dns-dlya-ald-pro"><strong>Split-DNS for ALD Pro / FreeIPA</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/nastroika-split-dns-dlya-ald-pro"><strong>Split-DNS for ALD Pro / FreeIPA</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Instructions for configuring split-DNS to route requests from different subnets to different domain controllers based on rules, geo-distribution, etc.</td>
     </tr>  
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/astrawizard"><strong>AstraWizard</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/astrawizard"><strong>AstraWizard</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Centralized management of computers based on ALSE OS through group policies.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/plagin-dlya-kopirovaniya-rolei-ald-pro"><strong>FreeIPA Plugin for Cloning Roles in ALD Pro</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/plagin-dlya-kopirovaniya-rolei-ald-pro"><strong>FreeIPA Plugin for Cloning Roles in ALD Pro</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A plugin for FreeIPA that allows creating new roles in the ALD Pro system based on existing ones via API using Kerberos authentication.</td>
     </tr>    
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/sinhronizaciya-polzovatelei-msad-to-freeipa"><strong>MS AD ↔ FreeIPA User Synchronization</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/sinhronizaciya-polzovatelei-msad-to-freeipa"><strong>MS AD ↔ FreeIPA User Synchronization</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Automated migration of users from Microsoft Active Directory to FreeIPA.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/aldpro-domain"><strong>ALD Pro Domain Deployment Automation</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/aldpro-domain"><strong>ALD Pro Domain Deployment Automation</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A comprehensive solution for automated ALD Pro domain setup.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/generaciya-organizacionnoi-struktury-ald-pro"><strong>ALD Pro Organizational Structure Generator</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/generaciya-organizacionnoi-struktury-ald-pro"><strong>ALD Pro Organizational Structure Generator</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A web application for generating LDIF structures of Organizational Units for ALD Pro.</td>
     </tr>    
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/oblachnoe-hranilishe-astra-linux-se"><strong>Cloud Storage Based on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/oblachnoe-hranilishe-astra-linux-se"><strong>Cloud Storage Based on Astra Linux</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">NextCloud implementation for operation in the Astra Linux environment.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb"><strong>Service Status Monitoring via System Tray Icons</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/ikonki-v-trei-dlya-monitoringa-sostoyaniya-slujb"><strong>Service Status Monitoring via System Tray Icons</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Visualization of service status through system tray icons.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/rabota-s-gruppovymi-politikami-ald-pro"><strong>ALD Pro Group Policy Management</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/rabota-s-gruppovymi-politikami-ald-pro"><strong>ALD Pro Group Policy Management</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A tool for cloning, saving, and migrating policies between domains.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/vyvod-informacii-na-rabochii-stol"><strong>Desktop Information Display</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/vyvod-informacii-na-rabochii-stol"><strong>Desktop Information Display</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A system for displaying service information on the user's desktop.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/pomogator"><strong>Helper for Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/pomogator"><strong>Helper for Astra Linux</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A set of auxiliary scripts for Astra Linux administrators.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/espd-astra-linux"><strong>ESPD for Educational Institutions</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/espd-astra-linux"><strong>ESPD for Educational Institutions</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A solution for configuring the Unified Access Rights System in schools.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/kiosk"><strong>Kiosk Solution Based on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/kiosk"><strong>Kiosk Solution Based on Astra Linux</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A ready-made solution for advertising and information kiosks.</td>
     </tr>
     <tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/menyu-dejstviya-astra-linux"><strong>Astra Linux "Actions" Menu Extension</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/menyu-dejstviya-astra-linux"><strong>Astra Linux "Actions" Menu Extension</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Additional functions for the system context menu.</td>
     </tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/zabbix-server-install"><strong>Automated Zabbix Server Installation on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/zabbix-server-install"><strong>Automated Zabbix Server Installation on Astra Linux</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">A script with GUI for automatic Zabbix server installation on ALSE OS.</td>
     </tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/shtamp-ecp-alse"><strong>Instructions for Adding Digital Signature Stamps on Astra Linux</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://github.com/a-gabidullin/shtamp-ecp-alse"><strong>Instructions for Adding Digital Signature Stamps on Astra Linux</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Complete instructions for configuring and adding digital signature stamps to documents on ALSE OS.</td>
-    </tr>
-      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://gitflic.ru/project/gabidullin-aleks/1c-server-astra-linux"><strong>Automated 1C Server Installation on Astra Linux</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">A ready-made solution for configuring and installing a 1C server on ALSE OS.</td>
-    </tr>            
+    </tr>           
     <tr>
-      <td style="padding:8px"><a href="https://gitflic.ru/project/gabidullin-aleks/peremeshchaemye-profili-v-astra-linux"><strong>Roaming Profiles in Astra Linux</strong></a></td>
+      <td style="padding:8px"><a href="https://github.com/a-gabidullin/peremeshchaemye-profili-v-astra-linux"><strong>Roaming Profiles in Astra Linux</strong></a></td>
       <td style="padding:8px">Automation of roaming profile configuration for Astra Linux.</td>
     </tr>
   </tbody>
