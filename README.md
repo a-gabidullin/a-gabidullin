@@ -97,6 +97,10 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/cloud_ru/articles/1068806/"><strong>How I automated image building with Ansible and Packer and made it into community.ansible</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">n this article, I will describe how I built a fully automated pipeline for building images of a proprietary Linux distribution based on Red Hat.</td>
+    </tr>    
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/1014554/"><strong>Engineering Culture: Why the Main Insights Are Born Not on Stage, but in the Subway and Bars</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">I used to think that the main thing in IT was sprints, task boards, and code without unnecessary meetings. But after Techday 2026, I realized: real solutions aren't born in Jira, but in the hallways, on the subway, and over coffee. I share my experience — how offline events strengthen connections between teams and save energy.</td>
     </tr>     

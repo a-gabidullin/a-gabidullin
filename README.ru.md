@@ -97,6 +97,10 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/cloud_ru/articles/1068806/"><strong>Как я автоматизировал сборку образов с Ansible и Packer и попал в community.ansible</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">В этой статье расскажу, как я построил полностью автоматизированный пайплайн для сборки образов закрытого дистрибутива Linux на базе RedHat</td>
+    </tr>      
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/astralinux/articles/1014554/"><strong>Культура инженерии: Почему главные инсайты рождаются не на сцене, а в метро и барах</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">Я долго думал, что главное в IT — это спринты, доски задач и код без лишних встреч. Но после Techday 2026 понял: настоящие решения рождаются не в Jira, а в кулуарах, в метро и за кофе. Делюсь своим опытом — как офлайн-мероприятия меняют связи между командами и экономят энергию</td>
     </tr>     
