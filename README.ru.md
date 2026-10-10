@@ -74,8 +74,12 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://docs.ansible.com/projects/ansible/latest/collections/community/general/packer_module.html#ansible-collections-community-general-packer-module"><strong>community.general.packer module</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Manage HashiCorp Packer builds</td>
+    </tr>  
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://docs.ansible.com/projects/ansible/latest/collections/community/general/logrotate_module.html#ansible-collections-community-general-logrotate-module"><strong>community.general.logrotate module</strong></a></td>
-      <td style="padding:8px; border-bottom:1px solid #ddd">Manage logrotate configuration files and settings.Create, update, or remove logrotate configurations for applications and services.</td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Manage logrotate configuration files and settings.Create, update, or remove logrotate configurations for applications and services</td>
     </tr>  
     <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://docs.ansible.com/projects/ansible/latest/collections/community/general/sssd_info_module.html#ansible-collections-community-general-sssd-info-module"><strong>community.general.sssd_info module</strong></a></td>
