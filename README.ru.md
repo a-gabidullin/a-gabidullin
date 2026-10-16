@@ -101,6 +101,10 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/cloud_ru/articles/1094620/"><strong>Почему ИИ ошибается и признает ошибку, только когда вы ее найдете? История одного экзамена</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">Как я поступал в аспирантуру, причем тут ИИ и главный вопрос - заменит ли нас ИИ и стоит ли нам боятся</td>
+    </tr>  
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/cloud_ru/articles/1068806/"><strong>Как я автоматизировал сборку образов с Ansible и Packer и попал в community.ansible</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">В этой статье расскажу, как я построил полностью автоматизированный пайплайн для сборки образов закрытого дистрибутива Linux на базе RedHat</td>
     </tr>      

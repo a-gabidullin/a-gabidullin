@@ -101,6 +101,10 @@
   </thead>
   <tbody>
     <tr>
+      <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/cloud_ru/articles/1094620/"><strong>Why does AI make mistakes and admit its error only when you find it? The story of one exam</strong></a></td>
+      <td style="padding:8px; border-bottom:1px solid #ddd">How I applied to graduate school, what AI has to do with it, and the main question: Will AI replace us, and should we be afraid?</td>
+    </tr>   
+    <tr>
       <td style="padding:8px; border-bottom:1px solid #ddd"><a href="https://habr.com/ru/companies/cloud_ru/articles/1068806/"><strong>How I automated image building with Ansible and Packer and made it into community.ansible</strong></a></td>
       <td style="padding:8px; border-bottom:1px solid #ddd">n this article, I will describe how I built a fully automated pipeline for building images of a proprietary Linux distribution based on Red Hat.</td>
     </tr>    
